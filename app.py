@@ -20,7 +20,7 @@ if __name__ == "__main__":
     title = "Dog Breed Classifier"
     description = "A dog breed classifier trained with fastai. Created as a demo for Gradio and HuggingFace Spaces."
     article="<p style='text-align: center'><a href='https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial' target='_blank'>Blog post</a></p>"
-    examples = ['dog1.jpg']
+    examples = ["Affenpinscher.jpg", "Bichon-Frise.jpg", "australian-shepherd.jpg", "chow-chow.jpg", "husky.jpg"]
     interpretation='default'
     enable_queue=True
 
